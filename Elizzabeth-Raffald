@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+    <script src="https://kit.fontawesome.com/4068e0497c.js" crossorigin="anonymous"></script>
+
+    <style>
+        body {
+            background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Elizabeth_Raffald_%28cropped%29.jpg/378px-Elizabeth_Raffald_%28cropped%29.jpg");
+            background-color: rgb(255, 255, 243);
+            background-repeat: no-repeat;
+            background-position: right top;
+            margin-right: 200px;
+            background-size: 280px;
+            background-attachment: fixed;
+        }
+        h1 {
+            font-family: "brush script mt";
+            color: rgb(37, 28, 59);
+            text-align: center;
+        }
+        h2 {
+            color: rgb(37, 28, 59);;
+            text-align: left;
+            text-decoration: underline;
+            font-family: "brush script mt";
+            margin-left: 100px;
+        }
+        p {
+            color: rgb(37, 28, 59);
+            font-family: garamond;
+            font-size: 15px;
+            border: 2px solid rgb(112, 158, 189);
+            border-radius: 8px;
+            padding: 5px;
+            margin-right: 150px;
+            margin-left: 100px;
+            letter-spacing: 3px;
+            font-weight: bold;
+            text-align: center;
+        }
+        div {
+            border: 15px solid rgb(112, 158, 189);
+            background-color: rgb(141, 195, 208);
+            padding: 50px 30px 50px 80px;
+            margin-right: 150px;
+            margin-left: 100px;
+            letter-spacing: 3px;
+            font-family: Garamond;
+        }
+        a:link, a:visited {
+            background-color: rgb(141, 195, 208);
+            color: black;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+        a:hover, a:active {
+            background-color: rgb(112, 158, 189);
+        }
+        a {
+            margin-right: 500px;
+        }
+    </style>
+</head>
+<body>
+
+
+<h1>Elizabeth raffald</h1>
+<p class="p">This is page will be used to give you the basic details of Elizabeth Raffald.</p>
+
+<div>The Experienced English Housekeeper of 18th Century Manchester, a woman of drive and character. Elizabeth lived at the dawn of the Industrial Age. Her name is unfamiliar to most Mancunians and yet she was a powerhouse of hard work and entrepreneurialism, something for which Manchester has always been renowned. She was a skilled confectionery cook, writer and businesswoman who lived in Manchester from 1763 , when she married at the age of 30, until she died in 1781. In that short time she produced a definitive cookbook and the first trade directory for Manchester, financed newspapers, wrote a book on midwifery and yet still found time to have a family. After a varied career she was buried at Stockport and her husband fled to London. Hers is a fascinating story taking in many things and places, including Arley Hall in Cheshire, Kersal Moor racecourse and the Eccles cake. She is a woman who deserves to be remembered for her contribution to Manchester.</div>
+
+ <h2>Place-holder While I figure out what I want to do with it</h2>
+
+
+<div>This is a link to the book by Suze Appleton on Elizabeth Raffald <a href="https://www.amazon.co.uk/Elizabeth-Raffald-Experienced-Housekeeper-Manchester/dp/1508449449/ref=sr_1_2?crid=L7TDO3PQ2BSR&keywords=elizabeth+raffald&qid=1690754608&sprefix=elizabeth+raffald+%2Caps%2C71&sr=8-2"><i class="fa-solid fa-book" style="color: white;"></i></a></div><br><br>
+  
+
+
+<a href="https://en.wikipedia.org/wiki/Elizabeth_Raffald" target="_blank">WIKI</a> 
+<a href="https://www.amazon.co.uk/Elizabeth-Raffald-Experienced-Housekeeper-Manchester/dp/1508449449/ref=sr_1_2?crid=L7TDO3PQ2BSR&keywords=elizabeth+raffald&qid=1690754608&sprefix=elizabeth+raffald+%2Caps%2C71&sr=8-2" target="_blank">BOOK</a>
+</body>
+</html>
